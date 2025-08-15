@@ -1,0 +1,7 @@
+{
+  "name": "IthYa",
+  "description": "A futuristic home automation application that uses AI to generate a floor plan and allows for voice control of smart devices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
